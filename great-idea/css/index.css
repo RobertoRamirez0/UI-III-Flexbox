@@ -198,4 +198,95 @@ footer {
 	font-size: 14px;
 }
 
-/* services html css here*/
+/* services html css starts here*/
+
+
+
+
+.services-main-heading {
+	display: flex;
+}
+.services-main-content-top {
+	padding: 30px 0px;
+	border-bottom: 1px solid black;
+}
+.services-middle-content {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 40px;
+}
+.box-one {
+	border: 1px solid;
+	width: 380px;
+	padding: 20px;
+	align-self: auto;
+	background: lightgray;
+}
+.box-two {
+	border: 1px solid;
+	width: 400px;
+	padding: 20px;
+	align-self: auto;
+	margin-left: 100px;
+	background: lightgray;
+}
+.box-three {
+	border: 1px solid;
+	width: 380px;
+	padding: 20px;
+	align-self: auto;
+	background: lightgray;
+}
+.box-four {
+	border: 1px solid;
+	width: 400px;
+	padding: 20px;
+	align-self: auto;
+	margin-left: 100px;
+	background: lightgray;
+}
+.box-five {
+	border: 1px solid;
+	width: 380px;
+	padding: 20px;
+	align-self: auto;
+	background: lightgray;
+}
+.box-six {
+	border: 1px solid;
+	width: 400px;
+	padding: 20px;
+	align-self: auto;
+	margin-left: 100px;
+	background: lightgray;
+}
+.button-one {
+	margin-left: 0px;
+}
+.button-two {
+	margin-left: 0px;
+}
+.button-three {
+	margin-left: 0px;
+}
+.button-four {
+	margin-left: 0px;
+}
+.button-five {
+	margin-left: 0px;
+}
+.button-six {
+	margin-left: 0px;
+}
+.bottom-page {
+	display: flex;
+	border-top: 1px solid;
+	margin-top: 40px;
+}
+.facts-box {
+	width: 460px;
+	margin-top: 40px;
+}
+.services-info-img {
+	margin-top : 40px;
+}
